@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+seoul.rda
+bitreport_exams_cache
+bitreport_exams_files
+Kniter_Temp_dir_files
+bitreport_exams.html
+.DS_Store
